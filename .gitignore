@@ -120,7 +120,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -186,3 +185,4 @@ eval/
 qdrant_storage/
 .crossnote
 testing.ipynb
+config.bat
